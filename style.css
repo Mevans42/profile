@@ -1,0 +1,70 @@
+body {
+  background-color: rgb(240, 240, 240);
+  font-family: Arial, sans-serif;
+  color: rgb(100, 100, 100);
+  font-size: 25px;
+  line-height: 1.6;
+}
+
+h1 {
+  color: rgb(100, 100, 100);
+  font-family: Arail, sans-serif;
+  font-size: 30px;
+}
+
+h2 {
+  color: rgb(200, 200, 200);
+  font-family: Arail, sans-serif;
+  font-size: 15px;
+}
+
+h3 {
+  color: rgb(200, 200, 200);
+  font-family: Arail, sans-serif;
+  font-size: 10px;
+}
+
+ul {
+  color: #3c415e;
+  text-decoration: underline;
+  text-align: center;
+}
+
+  a:hover {
+    color: 738598;
+}
+
+.card {
+  text-align: ;
+  background: white;
+  padding: 40px;
+  border-radius: 4px;
+  box-shadow:0 10px 30px rgba(0,0,0,.1);;
+  margin: 30px;
+}
+
+@media (max-width: 960px) {
+
+.container {
+  margin: 100px
+  width: 300px;
+  color: 1c819e;
+  }
+}
+
+.list > li {
+  display: inline-block;
+  padding: 20px;
+}
+
+
+/*background, border, border-radius and box-shadow*/
+
+/*Choose a nice color and font-family for headers (<h1>, <h2>, <h3>)
+
+Choose harmonious font-size and line-height for headers
+
+
+/*background-color, font-family, color,
+font-size and line-height for the <body>*/
+
